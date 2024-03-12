@@ -1,1 +1,1 @@
-# iat313.github.io
+The APP is a video software that makes it easy for users to watch CCTV channels. Its main function is to facilitate users to watch CCTV through mobile phones, it does not collect any information from users.
